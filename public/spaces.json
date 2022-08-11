@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Car Body auto service",
+        "img": "https://i.ibb.co/V2D96MQ/Collision-Solutions-Auto-Body-Repair-Painting-Okotoks-AB.png",
+        "spaces": 10
+    },
+    {
+        "name": "Car Engine service",
+        "img": "https://i.ibb.co/wgbhKGV/Seething-V8-Engine-wanoco-4-D.png",
+        "spaces": 10
+    },
+    {
+        "name": "Car Painting service",
+        "img": "https://i.ibb.co/NmJSqfG/car-painting.png",
+        "spaces": 5
+    }
+]
